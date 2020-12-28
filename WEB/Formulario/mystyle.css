@@ -1,0 +1,93 @@
+/* *{ outline: solid 1px tomato;} */
+
+body
+{
+    background-color: #1d1d1d;
+    padding: 100px;
+}
+
+.inbox
+{
+    padding: 10px;
+    margin : auto;
+    width: 300px;
+}
+
+
+.buttonCase
+{
+    
+    margin : auto;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+
+.button
+{
+    padding: 5px;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(0, 61, 77);
+    font-family: monospace;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+}
+
+.slidecontainer
+{
+    width: 100%;
+    margin : auto;
+    background-color: rgb(255, 255, 255);
+    font-family: monospace;
+    border-radius: 15px;
+}
+
+.txt
+{
+    font-size: 20px;
+    font-family: monospace;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+
+}
+
+ .fila:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.mod
+{
+    background-color: rgb(191, 210, 214);
+    
+}
+
+.input
+{
+    box-sizing: border-box;   
+    width: 100%;
+    padding: 5px;
+    padding-left: 10px;
+    border: 0px;
+    font-size: 18px;
+    font-family: monospace;
+    /* background:transparent; */
+    outline: none;
+    
+}
+
+.inputbox
+{
+margin-top: 10px;
+width: 100%;
+
+}
